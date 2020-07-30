@@ -39,4 +39,4 @@ In my free time, I like to give tutorials about R, RMarkdown and Shiny. Here a l
 + ⚡ [`{R-ladies Tunis}`](https://www.youtube.com/watch?v=sRmsyE3edDI)
 
 
-Don't hesitate to reach out if you have a great idea in mind. 
+Finally, I'm a [certified RStudio Trainer](https://education.rstudio.com/trainers/) in Tidyverse and Shiny. Don't hesitate to reach out if you need some help. 
