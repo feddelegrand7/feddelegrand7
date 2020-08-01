@@ -1,7 +1,7 @@
 
 ### Azzul Fellawen 👋 
 
-I'm Fodil, I'm a PhD candidate in Economics and an avid R developer though I code sometimes in Python and JavaScript. You can find more about me on my [website](https://ihaddadenfodil.com/).
+I'm Fodil, a PhD candidate in Economics and an avid R developer though I code sometimes in Python and JavaScript. You can find more about me on my [website](https://ihaddadenfodil.com/).
 
 Here a list of R packages I developed recently: 
 
