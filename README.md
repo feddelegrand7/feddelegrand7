@@ -35,7 +35,7 @@ Here a list of R packages I developed recently:
 In my free time, I like to give tutorials about R, RMarkdown and Shiny. Here a list of talks I've given recently: 
 
 + ⚡ [`{useR2020}`](https://www.youtube.com/watch?v=OHi6E8jegQg)
-+ ⚡ [`{Bristol R User Group}`](https://www.youtube.com/watch?v=OHi6E8jegQg)
++ ⚡ [`{Bristol R User Group}`](https://www.youtube.com/watch?v=84g6NDDGiZw&feature=youtu.be)
 + ⚡ [`{R-ladies Tunis}`](https://www.youtube.com/watch?v=sRmsyE3edDI)
 
 
