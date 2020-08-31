@@ -41,6 +41,6 @@ In my free time, I appreciate giving tutorials and talks about R, RMarkdown and 
 I've also participated as a Teacher Assistant in two virtual workshops at [R Medecine 2020](https://events.linuxfoundation.org/r-medicine/), namely :
 
 + 101: Intro to R for Clinicians
-+ 201: Intro to Machine Learning with Tidymodels
++ [201: Intro to Machine Learning with Tidymodels](https://tmv.netlify.app/site/)
 
 Finally, I'm a [certified RStudio Trainer](https://education.rstudio.com/trainers/) in Tidyverse and Shiny. Don't hesitate to reach out if you need some help. 
