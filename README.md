@@ -38,7 +38,7 @@ In my free time, I appreciate giving tutorials and talks about R, RMarkdown and 
 + ⚡ [`{Bristol R User Group}`](https://www.youtube.com/watch?v=84g6NDDGiZw&feature=youtu.be)
 + ⚡ [`{R-ladies Tunis}`](https://www.youtube.com/watch?v=sRmsyE3edDI)
 
-I've also participated as a Teacher Assistant in [R Medecine 2020](https://events.linuxfoundation.org/r-medicine/) for two virtual workshops, namely :
+I've also participated as a Teacher Assistant in two virtual workshops at [R Medecine 2020](https://events.linuxfoundation.org/r-medicine/), namely :
 
 + 101: Intro to R for Clinicians
 + 201: Intro to Machine Learning with Tidymodels
