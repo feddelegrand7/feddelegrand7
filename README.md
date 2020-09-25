@@ -31,14 +31,16 @@ Here a list of R packages I've developed recently:
 
 + 📦 [`{fabricerin}`](https://github.com/feddelegrand7/fabricerin)
 
++ 📦 [`{rintimg}`](https://github.com/feddelegrand7/rintimg)
 
-In my free time, I appreciate giving tutorials and talks about R, RMarkdown and Shiny. Here a list of talks I've given recently: 
+
+In my free time, I like to give tutorials and talks about R, RMarkdown and Shiny. Here a list of talks I've given recently: 
 
 + ⚡ [`{useR2020}`](https://www.youtube.com/watch?v=OHi6E8jegQg)
 + ⚡ [`{Bristol R User Group}`](https://www.youtube.com/watch?v=84g6NDDGiZw&feature=youtu.be)
 + ⚡ [`{R-ladies Tunis}`](https://www.youtube.com/watch?v=sRmsyE3edDI)
 
-I've also participated as a Teacher Assistant in two virtual workshops at [R Medecine 2020](https://events.linuxfoundation.org/r-medicine/), namely :
+I've also participated as a TA in two virtual workshops at [R Medecine 2020](https://events.linuxfoundation.org/r-medicine/), namely :
 
 + 101: Intro to R for Clinicians
 + [201: Intro to Machine Learning with Tidymodels](https://tmv.netlify.app/site/)
