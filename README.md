@@ -33,6 +33,8 @@ Here a list of R packages I've developed recently:
 
 + 📦 [`{rintimg}`](https://github.com/feddelegrand7/rintimg)
 
++ 📦 [`{creature}`](https://github.com/feddelegrand7/creature)
+
 
 In my free time, I like to give tutorials and talks about R, RMarkdown and Shiny. Here a list of talks I've given recently: 
 
