@@ -35,6 +35,8 @@ Here a list of R packages I've developed recently:
 
 + 📦 [`{creature}`](https://github.com/feddelegrand7/creature)
 
++ 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
+
 
 In my free time, I like to give tutorials and talks about R, RMarkdown and Shiny. Here a list of talks I've given recently: 
 
