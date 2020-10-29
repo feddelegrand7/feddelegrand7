@@ -37,6 +37,8 @@ Here a list of R packages I've developed recently:
 
 + 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
 
++ 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
+
 
 In my free time, I like to give tutorials and talks about R, RMarkdown and Shiny. Here a list of talks I've given recently: 
 
