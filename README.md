@@ -3,7 +3,7 @@
 
 I'm Fodil, a PhD candidate in Economics and an avid R developer though I code sometimes in JavaScript and Python. You can find more about me on my [website](https://ihaddadenfodil.com/).
 
-Here a list of R packages I've developed recently: 
+Here a list of R packages I've recently developed: 
 
 + 📦 [`{ralger}`](https://github.com/feddelegrand7/ralger)
 + 📦 [`{BARIS}`](https://github.com/feddelegrand7/BARIS)
@@ -22,6 +22,12 @@ Here a list of R packages I've developed recently:
 + 📦 [`{creature}`](https://github.com/feddelegrand7/creature)
 + 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
+
+I've also contributed to a few packages: 
+
++ 📦 [`{golem}`](https://github.com/ThinkR-open/golem)
++ 📦 [`{ggeasy}`](https://github.com/jonocarroll/ggeasy)
++ 📦 [`{glosario}`](https://github.com/carpentries/glosario)
 
 
 In my free time, I like to write R tutorials or give talks. Here a list of talks I've given recently: 
