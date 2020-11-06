@@ -6,37 +6,21 @@ I'm Fodil, a PhD candidate in Economics and an avid R developer though I code so
 Here a list of R packages I've developed recently: 
 
 + 📦 [`{ralger}`](https://github.com/feddelegrand7/ralger)
-
 + 📦 [`{BARIS}`](https://github.com/feddelegrand7/BARIS)
-
 + 📦 [`{farrell}`](https://github.com/feddelegrand7/farrell)
-
 + 📦 [`{GomoGomonoMi}`](https://github.com/feddelegrand7/GomoGomonoMi)
-
 + 📦 [`{scrollrevealR}`](https://github.com/feddelegrand7/scrollrevealR)
-
 + 📦 [`{batata}`](https://github.com/feddelegrand7/batata)
-
 + 📦 [`{algo}`](https://github.com/feddelegrand7/algo)
-
 + 📦 [`{mailtoR}`](https://github.com/feddelegrand7/mailtoR)
-
 + 📦 [`{Rnightly}`](https://github.com/feddelegrand7/Rnightly)
-
 + 📦 [`{corazon}`](https://github.com/feddelegrand7/corazon)
-
 + 📦 [`{bubblyr}`](https://github.com/feddelegrand7/bubblyr)
-
 + 📦 [`{pivta}`](https://github.com/feddelegrand7/pivta)
-
 + 📦 [`{fabricerin}`](https://github.com/feddelegrand7/fabricerin)
-
 + 📦 [`{rintimg}`](https://github.com/feddelegrand7/rintimg)
-
 + 📦 [`{creature}`](https://github.com/feddelegrand7/creature)
-
 + 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
-
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
 
 
