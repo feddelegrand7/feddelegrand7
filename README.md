@@ -3,7 +3,7 @@
 
 I'm Fodil, a PhD candidate in Economics and an avid R developer though I code sometimes in JavaScript and Python. You can find more about me on my [website](https://ihaddadenfodil.com/).
 
-<detail>
+<details>
 <summary>
 Here a list of R packages I've recently developed: 
 </summary>
