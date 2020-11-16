@@ -23,13 +23,6 @@ Here a list of R packages I've recently developed:
 + 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
 
-I've also contributed to a few packages: 
-
-+ 📦 [`{golem}`](https://github.com/ThinkR-open/golem)
-+ 📦 [`{ggeasy}`](https://github.com/jonocarroll/ggeasy)
-+ 📦 [`{glosario}`](https://github.com/carpentries/glosario)
-
-
 In my free time, I like to write R tutorials or give talks. Here a list of talks I've given recently: 
 
 + ⚡ [`{useR2020}`](https://www.youtube.com/watch?v=OHi6E8jegQg)
