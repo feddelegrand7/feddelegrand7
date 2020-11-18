@@ -28,11 +28,6 @@ Here a list of R packages I've recently developed:
 
 </details>
 
-I'm confident with the following technologies: 
-
-![](https://d33wubrfki0l68.cloudfront.net/8f68bc526580587d60714f9279fbe9d86b25362a/79958/assets/img/shiny.png)
-
-
 In my free time, I like to write R tutorials or give talks. Here a list of talks I've given recently: 
 
 + ⚡ [`{useR2020}`](https://www.youtube.com/watch?v=OHi6E8jegQg)
