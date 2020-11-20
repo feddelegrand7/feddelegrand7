@@ -28,6 +28,9 @@ Here a list of R packages I've recently developed:
 
 </details>
 
+I've also developed [`{shinysnip}`](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip) which is a VSCode extension that allows you to generate Shiny code snippets.
+
+
 In my free time, I like to write R tutorials or give talks. Here a list of talks I've given recently: 
 
 + ⚡ [`{useR2020}`](https://www.youtube.com/watch?v=OHi6E8jegQg)
