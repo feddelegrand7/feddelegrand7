@@ -41,8 +41,8 @@ And here some [tutorials](https://ihaddadenfodil.com/#posts)
 
 Finally, I'm a [certified RStudio Trainer](https://education.rstudio.com/trainers/) in Tidyverse and Shiny. Don't hesitate to reach out if you need some help. 
 
-
-__Technology__
+***
+__Tech__
 
 ![R](https://img.shields.io/badge/-programming-blue?style=flat-square&logo=r&link=https://github.com/feddelegrand7/)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/feddelegrand7/)
