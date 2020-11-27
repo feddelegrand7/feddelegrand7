@@ -39,9 +39,13 @@ In my free time, I like to write R tutorials or give talks. Here a list of talks
 
 And here some [tutorials](https://ihaddadenfodil.com/#posts)
 
-I've also participated as a TA in two virtual workshops at [R Medecine 2020](https://events.linuxfoundation.org/r-medicine/), namely :
-
-+ 101: Intro to R for Clinicians
-+ [201: Intro to Machine Learning with Tidymodels](https://tmv.netlify.app/site/)
-
 Finally, I'm a [certified RStudio Trainer](https://education.rstudio.com/trainers/) in Tidyverse and Shiny. Don't hesitate to reach out if you need some help. 
+
+
+__Technology__
+
+[![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/feddelegrand7/)]
+[![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/feddelegrand7/)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/feddelegrand7/)]
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/feddelegrand7/)]
+
