@@ -47,5 +47,5 @@ __Technology__
 ![R](https://img.shields.io/badge/-programming-blue?style=flat-square&logo=r&link=https://github.com/feddelegrand7/)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/feddelegrand7/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/feddelegrand7/)
-![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&link=https://github.com/feddelegrand7/)
+![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker&link=https://github.com/feddelegrand7/)
 
