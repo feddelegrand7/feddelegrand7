@@ -25,6 +25,8 @@ Here a list of R packages I've recently developed:
 + 📦 [`{creature}`](https://github.com/feddelegrand7/creature)
 + 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
++ 📦 [`{savonliquide}`](https://github.com/feddelegrand7/savonliquide)
+
 
 </details>
 
