@@ -5,8 +5,11 @@ I'm Fodil, a PhD candidate in Economics and an avid R and Shiny developer though
 
 <details>
 <summary>
-Here a list of R packages I've recently developed: 
+Here a list packages I've recently developed: 
 </summary>
+  
+ ### R
+ ***
 
 + 📦 [`{ralger}`](https://github.com/feddelegrand7/ralger)
 + 📦 [`{BARIS}`](https://github.com/feddelegrand7/BARIS)
@@ -27,6 +30,9 @@ Here a list of R packages I've recently developed:
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
 + 📦 [`{savonliquide}`](https://github.com/feddelegrand7/savonliquide)
 
+
+### Python
++ 📦 [`{pygouv}`](https://pypi.org/project/pygouv/)
 
 </details>
 
