@@ -32,6 +32,8 @@ Here a list packages I've recently developed:
 
 
 ### Python
+***
+
 + 📦 [`{pygouv}`](https://pypi.org/project/pygouv/)
 
 </details>
