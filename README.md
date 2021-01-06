@@ -54,7 +54,7 @@ Finally, I'm a [certified RStudio Trainer](https://education.rstudio.com/trainer
 ***
 __Tech__
 
-![R](https://img.shields.io/badge/-programming-blue?style=flat-square&logo=r&link=https://github.com/feddelegrand7/)
+![R](https://commons.wikimedia.org/wiki/File:R_logo.svg)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&link=https://github.com/feddelegrand7/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/feddelegrand7/)
 ![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker&link=https://github.com/feddelegrand7/)
