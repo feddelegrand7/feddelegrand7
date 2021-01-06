@@ -34,7 +34,7 @@ Here a list packages I've recently developed:
 ### Python
 ***
 
-+ 📦 [`{pygouv}`](https://pypi.org/project/pygouv/)
++ 📦 [`{pygouv}`](https://github.com/feddelegrand7/pygouv)
 
 
 ### VSCode 
