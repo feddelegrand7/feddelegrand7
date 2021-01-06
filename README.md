@@ -40,17 +40,6 @@ Here a list packages I've recently developed:
 
 I've also developed [`{shinysnip}`](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip) a VSCode extension that allows you to generate Shiny code snippets.
 
-
-In my free time, I like to write R tutorials or give talks. Here a list of talks I've given recently: 
-
-+ ⚡ [`{useR2020}`](https://www.youtube.com/watch?v=OHi6E8jegQg)
-+ ⚡ [`{Bristol R User Group}`](https://www.youtube.com/watch?v=84g6NDDGiZw&feature=youtu.be)
-+ ⚡ [`{R-ladies Tunis}`](https://www.youtube.com/watch?v=sRmsyE3edDI)
-
-And here some [tutorials](https://ihaddadenfodil.com/#posts)
-
-Finally, I'm a [certified RStudio Trainer](https://education.rstudio.com/trainers/) in Tidyverse and Shiny. Don't hesitate to reach out if you need some help. 
-
 ***
 __Tech__
 
