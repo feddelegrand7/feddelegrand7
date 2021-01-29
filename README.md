@@ -29,6 +29,7 @@ Here a list packages I've recently developed:
 + 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
 + 📦 [`{savonliquide}`](https://github.com/feddelegrand7/savonliquide)
++ 📦 [`{cronologia}`](https://github.com/feddelegrand7/cronologia)
 
 
 ### Python
