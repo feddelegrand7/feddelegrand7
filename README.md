@@ -30,6 +30,7 @@ Here a list packages I've recently developed:
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
 + 📦 [`{savonliquide}`](https://github.com/feddelegrand7/savonliquide)
 + 📦 [`{cronologia}`](https://github.com/feddelegrand7/cronologia)
++ 📦 [`{ddplot}`](https://github.com/feddelegrand7/ddplot)
 
 
 ### Python
