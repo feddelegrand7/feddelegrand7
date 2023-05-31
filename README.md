@@ -12,31 +12,15 @@ Here a list packages I've recently developed:
  ***
 
 + 📦 [`{ralger}`](https://github.com/feddelegrand7/ralger)
-+ 📦 [`{BARIS}`](https://github.com/feddelegrand7/BARIS)
-+ 📦 [`{farrell}`](https://github.com/feddelegrand7/farrell)
-+ 📦 [`{GomoGomonoMi}`](https://github.com/feddelegrand7/GomoGomonoMi)
-+ 📦 [`{scrollrevealR}`](https://github.com/feddelegrand7/scrollrevealR)
 + 📦 [`{batata}`](https://github.com/feddelegrand7/batata)
-+ 📦 [`{algo}`](https://github.com/feddelegrand7/algo)
-+ 📦 [`{mailtoR}`](https://github.com/feddelegrand7/mailtoR)
-+ 📦 [`{Rnightly}`](https://github.com/feddelegrand7/Rnightly)
-+ 📦 [`{corazon}`](https://github.com/feddelegrand7/corazon)
-+ 📦 [`{bubblyr}`](https://github.com/feddelegrand7/bubblyr)
 + 📦 [`{pivta}`](https://github.com/feddelegrand7/pivta)
 + 📦 [`{fabricerin}`](https://github.com/feddelegrand7/fabricerin)
 + 📦 [`{rintimg}`](https://github.com/feddelegrand7/rintimg)
-+ 📦 [`{creature}`](https://github.com/feddelegrand7/creature)
 + 📦 [`{flipdownr}`](https://github.com/feddelegrand7/flipdownr)
 + 📦 [`{radous}`](https://github.com/feddelegrand7/radous)
 + 📦 [`{savonliquide}`](https://github.com/feddelegrand7/savonliquide)
 + 📦 [`{cronologia}`](https://github.com/feddelegrand7/cronologia)
 + 📦 [`{ddplot}`](https://github.com/feddelegrand7/ddplot)
-
-
-### Python
-***
-
-+ 📦 [`{pygouv}`](https://github.com/feddelegrand7/pygouv)
 
 
 ### VSCode 
