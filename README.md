@@ -1,7 +1,7 @@
 
 ### Azzul Fellawen 👋 
 
-I'm Fodil, a PhD in Economics and an avid R and Shiny developer.
+I'm Fodil, an R and Shiny developer.
 
 <details>
 <summary>
