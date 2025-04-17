@@ -1,7 +1,7 @@
 
 ### Azzul Fellawen 👋 
 
-I'm Fodil, an R and Shiny developer. Trying to make R a better programming language. 
+I'm Fodil, an R and Shiny developer. Trying to make R a better programming language. One line of code at a time.
 __Tech__
 
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R&link=https://github.com/feddelegrand7/)
