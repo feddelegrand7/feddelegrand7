@@ -14,6 +14,7 @@ I'm Fodil, an R and Shiny developer. Trying to make R a better programming langu
 
 Here an overview of my recent talks: 
 
+- [mini007 - A Lightweight Framework for Multi-Agent Orchestration in R](https://www.youtube.com/watch?v=Ly7GqO4eLg8)
 - [Shiny for Python: Reactive Web Apps Made Simple](https://2025.ploneconf.org/schedule/talks/shiny-for-python-reactive-web-apps-made-simple)
 - Building state of the art RAG-LLM applications with R Shiny: ShinyConf 2025
 - [Shiny in Production: best practices and pitfalls to avoic](https://www.meetup.com/hamburg-r-user-group/events/289756227/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
